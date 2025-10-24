@@ -1,0 +1,5 @@
+{
+  "name": "casitatetrix",
+  "description": "Un catálogo de productos online visualmente atractivo y responsivo. Los datos de los productos son generados dinámicamente por la API de Gemini al cargar la página, creando un catálogo único y diverso cada vez.",
+  "requestFramePermissions": []
+}
